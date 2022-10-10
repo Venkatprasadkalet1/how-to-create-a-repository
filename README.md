@@ -1,1 +1,1 @@
-# how-to-create-a-repositories
+# how-to-create-a-repository
